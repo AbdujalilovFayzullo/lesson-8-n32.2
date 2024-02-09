@@ -1,0 +1,19 @@
+.home__item{
+    list-style: none;
+    display: flex;
+    border: 1px solid gray;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+
+.home__list{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.home__title{
+    text-align: center;
+    font-weight: 800;
+}
